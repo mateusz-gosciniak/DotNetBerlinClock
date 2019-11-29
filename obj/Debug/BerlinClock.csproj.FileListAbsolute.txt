@@ -1,0 +1,8 @@
+C:\Users\Gryfin\Documents\GitHub\DotNetBerlinClock\bin\Debug\BerlinClock.dll.config
+C:\Users\Gryfin\Documents\GitHub\DotNetBerlinClock\bin\Debug\BerlinClock.dll
+C:\Users\Gryfin\Documents\GitHub\DotNetBerlinClock\bin\Debug\BerlinClock.pdb
+C:\Users\Gryfin\Documents\GitHub\DotNetBerlinClock\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Gryfin\Documents\GitHub\DotNetBerlinClock\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\Gryfin\Documents\GitHub\DotNetBerlinClock\obj\Debug\BerlinClock.csproj.CopyComplete
+C:\Users\Gryfin\Documents\GitHub\DotNetBerlinClock\obj\Debug\BerlinClock.dll
+C:\Users\Gryfin\Documents\GitHub\DotNetBerlinClock\obj\Debug\BerlinClock.pdb
